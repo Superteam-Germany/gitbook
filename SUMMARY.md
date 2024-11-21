@@ -45,6 +45,7 @@
 * [💻 HackaTUM](hackathons/hackatum/README.md)
   * [🏆 Winning Idea?](hackathons/hackatum/winning-idea.md)
   * [☕ Entry Point](hackathons/hackatum/entry-point.md)
+  * [🧑‍🏫 Tutorials](hackathons/hackatum/tutorials.md)
 * [🏃‍♀️ Solana Speedrun](hackathons/solana-speedrun.md)
 * [⚔️ Colosseum](hackathons/colosseum/README.md)
   * [3 Day Hackathon Bootcamp](hackathons/colosseum/3-day-hackathon-bootcamp.md)

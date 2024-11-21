@@ -26,6 +26,12 @@ To quickly get started with Solana development and build your first Rust program
 * [Build and deploy your first Solana program using only your browser](https://solana.com/developers/guides/getstarted/hello-world-in-your-browser). No installation needed.
 * [Setup your local environment](https://solana.com/developers/guides/getstarted/setup-local-development) and use the local test validator.
 
+## Python Client for Solana
+
+Both [Solders](https://pypi.org/project/solders/) and [Solana.py](https://michaelhly.com/solana-py/) are great options to get going when writing client code on Python
+
+
+
 ## Blinks
 
 A package that lets you render a blink on your website. There are also other packages available, e.g. from [Solana Developers](https://www.npmjs.com/package/@solana/actions).
