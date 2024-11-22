@@ -10,6 +10,8 @@ Here is a list of great tutorials that could come in handy throughout your dApp 
 
 ## [Metaplex Solana NextJs Tailwind Template](https://developers.metaplex.com/guides/templates/metaplex-nextjs-tailwind-template)
 
+## [How to Mint an NFT with Blinks](https://youtu.be/G9eB4_4l-xU)
+
 
 
 

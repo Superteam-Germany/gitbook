@@ -48,7 +48,5 @@ Blockchain links "[Blinks](../../developers-guild/knowledge-base/sdk-overview/fr
 
 {% embed url="https://player.vimeo.com/progressive_redirect/playback/967239233/rendition/1080p/file.mp4?loc=external&signature=8bcd4ecdc41de4bfa3925a3692f01dc302dff9929b8132c36ffca1a3fff1f9b0" %}
 
-
-
-
+Check out
 

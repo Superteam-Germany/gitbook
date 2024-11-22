@@ -36,4 +36,17 @@ Both [Solders](https://pypi.org/project/solders/) and [Solana.py](https://michae
 
 A package that lets you render a blink on your website. There are also other packages available, e.g. from [Solana Developers](https://www.npmjs.com/package/@solana/actions).
 
+Make sure to check out these templates
+
+{% embed url="https://github.com/solana-developers/solana-actions/tree/main/examples" %}
+
+This is also a great resource from [Dialect](https://www.dialect.to/):
+
 {% embed url="https://github.com/dialectlabs/blinks" %}
+
+Using Blinks for NFT Minting:
+
+{% content-ref url="../../sessions/solana-blink-special.md" %}
+[solana-blink-special.md](../../sessions/solana-blink-special.md)
+{% endcontent-ref %}
+
