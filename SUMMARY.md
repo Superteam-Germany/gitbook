@@ -9,7 +9,7 @@
 * [🧙 Guild 101](developers-guild/guild-101.md)
 * [🍕 Sessions](developers-guild/sessions/README.md)
   * [Introduction to Turbin3](developers-guild/sessions/introduction-to-turbin3.md)
-  * [Pokémon in a blink: Interview with sol\_idity](developers-guild/sessions/pokemon-in-a-blink-interview-with-sol\_idity.md)
+  * [Pokémon in a blink: Interview with sol\_idity](developers-guild/sessions/pokemon-in-a-blink-interview-with-sol_idity.md)
   * [Solana Blink Special](developers-guild/sessions/solana-blink-special.md)
   * [Minting NFTs with Metaplex Core](developers-guild/sessions/minting-nfts-with-metaplex-core.md)
   * [ZK Compression](developers-guild/sessions/zk-compression.md)
@@ -30,7 +30,7 @@
   * [👾 Tools](developers-guild/knowledge-base/tools.md)
   * [🌈 Misc](developers-guild/knowledge-base/misc.md)
 * [💬 Feedback](developers-guild/feedback.md)
-* [🚀 Join our Telegram](https://t.me/+ow7AAPNj2\_U2Mzcy)
+* [🚀 Join our Telegram](https://t.me/+ow7AAPNj2_U2Mzcy)
 
 ## Creators Guild
 
@@ -46,6 +46,7 @@
   * [🏆 Winning Idea?](hackathons/hackatum/winning-idea.md)
   * [☕ Entry Point](hackathons/hackatum/entry-point.md)
   * [🧑‍🏫 Tutorials](hackathons/hackatum/tutorials.md)
+  * [Faucets](hackathons/hackatum/faucets.md)
 * [🏃‍♀️ Solana Speedrun](hackathons/solana-speedrun.md)
 * [⚔️ Colosseum](hackathons/colosseum/README.md)
   * [3 Day Hackathon Bootcamp](hackathons/colosseum/3-day-hackathon-bootcamp.md)
@@ -59,4 +60,4 @@
 
 * [Follow on X](https://x.com/SuperteamDE)
 * [Visit our Events](https://www.meetup.com/superteam-germany)
-* [Chat on Telegram](https://t.me/solana\_germany)
+* [Chat on Telegram](https://t.me/solana_germany)
