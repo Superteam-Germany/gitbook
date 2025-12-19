@@ -2,7 +2,7 @@
 description: Explore the Solana ecosystem with the Superteam Germany Creators Guild!
 ---
 
-# 🎨 INTRO - GM Creators!  ​
+# 🎨 GM CREATORS! ​
 
 ​The Superteam Germany CREATORS GUILD was established is to help us all navigate the dynamic unpredictable world of creativity on the blockchain via Solana NFTs, and to ideally free up more time to make artwork while saving us precious research time.
 
@@ -14,4 +14,4 @@ description: Explore the Solana ecosystem with the Superteam Germany Creators Gu
 * ​**Connect:** Discuss the opportunities and challenges of being a creator in the ever-changing world of Web3.
 * ​**Collaboration:** Mind-meld with fellow creators, share best practices, and inspire each other's work.
 
-​Whether you're a seasoned creator with a few years under your belt, or just starting your journey, we're happy to invite you to join us and explore the immense potential of the Solana ecosystem for creative work!\
+​Whether you're a seasoned creator with a few years under your belt, or just starting your journey, we're happy to invite you to join us and explore the immense potential of the Solana ecosystem for creative work!<br>

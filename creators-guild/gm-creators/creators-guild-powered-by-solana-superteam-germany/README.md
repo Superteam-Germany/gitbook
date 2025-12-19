@@ -1,14 +1,51 @@
 ---
 description: >-
-  The CREATORS GUILD spaces are collected and archived here with the ROUNDUPS
-  and TAKEAWAYS. Enjoy!
+  CREATORS GUILD online talks, discussions & interviews are archived here. Learn
+  how Solana  creatives have utilized the potential of web3 to enhance their
+  practice:
 ---
 
-# 🔮 Spaces
+# 🔮 CREATORS GUILD powered by Solana Superteam Germany
+
+<figure><img src="../../../.gitbook/assets/creators guild _ neutral_jpg.jpg" alt=""><figcaption><p>Spaces live on x/Twitter.</p></figcaption></figure>
+
+## CREATORS GUILD GUESTS have included:
+
+Stefan Große Halbuer - Artist, Author & Innovator @grossehalbuer&#x20;
+
+Stacie Ant - Digital Artist @whosthereplease & Founder @chromalink\_co
+
+Xristina Sarli - Hybrid Artist, Curator & Researcher mermaidbro420 (twitch)
+
+Thomukas @thomukas1 of Rubians.lol @RubiansVR & @BigDiggas
+
+Multitalented Zoë @ZoeCatherineF - Founder of @cryptogirlsclub organizing global events for @joinwebzero.&#x20;
+
+Musician-turned-CPO Robert Stanley aka @DJBobbyStarrr of @UnifyGiving & European Artist Bank
+
+Prof. Francisco "Franc" Guerrero,&#x20;
+
+Berlin-based art Curator Anna Poubova,&#x20;
+
+Web3 Multitalent Travi,&#x20;
+
+Creative-Founder Meylen & Host Paul of SuperteamDE
+
+Artists & Co-Curators of @SOL\_Animate Animation Festival Trev & Steve, Digital Artist
+
+Innovator Gert-Jan @GertJanAkerboom,&#x20;
+
+Comic Creator & Storyteller Roach @RoachWrites\_
+
+<br>
+
+![](../../../.gitbook/assets/unknown.png)<br>
+
+CREATORS GUILD : [https://www.youtube.com/watch?v=qz2ltEO7N7o](https://www.youtube.com/watch?v=qz2ltEO7N7o)
 
 
 
-<figure><img src="../../../.gitbook/assets/guilds_v9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guilds_v9.jpg" alt=""><figcaption><p>Oct. 2, 2024: WHY WEB3 ART?</p></figcaption></figure>
 
 <details>
 
@@ -20,11 +57,11 @@ will featuring a super lineup of special guests:
 
 Painter & Professor Francisco Guerrero [@elvisbanana](https://x.com/elvisbanana)
 
-NFT Biennial Founder & Director Rahum Unlu [@rahim\_unlu](https://x.com/rahim\_unlu)
+NFT Biennial Founder & Director Rahum Unlu [@rahim\_unlu](https://x.com/rahim_unlu)
 
 Artist Silvia Anan [@sakehqueen](https://x.com/sakehqueen) &
 
-Artist REZ [@Rez\_inProgress](https://x.com/Rez\_inProgress)
+Artist REZ [@Rez\_inProgress](https://x.com/Rez_inProgress)
 
 📅 OCT 2nd
 
@@ -33,8 +70,6 @@ Artist REZ [@Rez\_inProgress](https://x.com/Rez\_inProgress)
 📍 [https://x.com/i/spaces/1mnxeAkWYLnxX/peek](https://x.com/i/spaces/1mnxeAkWYLnxX/peek)
 
 </details>
-
-<figure><img src="../../../.gitbook/assets/creators guild _ neutral_jpg.jpg" alt=""><figcaption><p>Spaces live on x/Twitter.</p></figcaption></figure>
 
 <details>
 
@@ -88,8 +123,7 @@ Creators Guild: Web3 security, safety and scams #web3 [https://x.com/i/spaces/1O
 
 680 people tuned in at last count - thanks everyone!&#x20;
 
-[https://x.com/SuperteamDE/status/1815713989596422325](https://x.com/SuperteamDE/status/1815713989596422325)\
-
+[https://x.com/SuperteamDE/status/1815713989596422325](https://x.com/SuperteamDE/status/1815713989596422325)<br>
 
 </details>
 

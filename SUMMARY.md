@@ -34,10 +34,10 @@
 
 ## Creators Guild
 
-* [🎨 INTRO - GM Creators!  ​](creators-guild/intro-gm-creators.md)
+* [🎨 GM CREATORS! ​](creators-guild/gm-creators/README.md "enhance your practice with web3")
+  * [🔮 CREATORS GUILD powered by Solana Superteam Germany](creators-guild/gm-creators/creators-guild-powered-by-solana-superteam-germany/README.md " CREATORS GUILD is an online series of talks on the most relevant themes in the Solana ecosystem.")
+    * [Creator Resources](creators-guild/gm-creators/creators-guild-powered-by-solana-superteam-germany/creator-resources.md)
 * [👩‍🎨 CREATORS RESOURCE HUB](creators-guild/creators-resource-hub/README.md)
-  * [🔮 Spaces](creators-guild/creators-resource-hub/spaces/README.md)
-    * [Creator Resources](creators-guild/creators-resource-hub/spaces/creator-resources.md)
   * [🌆 Events & Exhibitions](creators-guild/creators-resource-hub/events-and-exhibitions.md)
 
 ## Hackathons
