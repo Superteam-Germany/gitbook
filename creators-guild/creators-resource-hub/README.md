@@ -9,7 +9,7 @@ coverY: 0
 
 # 👩‍🎨 CREATORS RESOURCE HUB
 
-##
+## CREATORS DIRECTORY
 
 * SOLANA [Creators Directory](https://creators.superteam.fun/) - a community-sourced list of creators who deeply understand Solana tech + culture.
 
