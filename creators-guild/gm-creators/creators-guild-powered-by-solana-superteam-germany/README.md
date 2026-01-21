@@ -37,9 +37,20 @@ Innovator Gert-Jan @GertJanAkerboom,&#x20;
 
 Comic Creator & Storyteller Roach @RoachWrites\_
 
-<br>
+CREATORS GUILD v23: create & release
 
-![](../../../.gitbook/assets/unknown.png)<br>
+[https://x.com/i/broadcasts/1mrxmBLWVVNKy](https://x.com/i/broadcasts/1mrxmBLWVVNKy)<br>
+
+![](../../../.gitbook/assets/unknown.png)
+
+CREATORS GUILD: ART ![🤝](https://abs-0.twimg.com/emoji/v2/svg/1f91d.svg) AI - Process, Platforms & Challenges -&#x20;
+
+SPEAKERS: Xristina Sarli - Hybrid Artist, Curator & Researcher&#x20;
+
+Stefan Große Halbuer - Artist, Author & Innovator[@grossehalbuer](https://x.com/grossehalbuer)
+
+Stacie Ant - Digital Artist[@whosthereplease](https://x.com/whosthereplease)& Founder[@chromalink\_co](https://x.com/chromalink_co) \
+[https://x.com/SuperteamDE/status/1945182445839769769?s=20](https://x.com/SuperteamDE/status/1945182445839769769?s=20)
 
 ART ![🤝](https://abs-0.twimg.com/emoji/v2/svg/1f91d.svg) AI - CREATORS' JOURNEY (PART 1)
 
