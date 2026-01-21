@@ -16,3 +16,4 @@ ART
 
 WRITING
 
+![](<../../../.gitbook/assets/unknown (1).png>)QR Code for this Page!

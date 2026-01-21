@@ -41,9 +41,11 @@ Comic Creator & Storyteller Roach @RoachWrites\_
 
 ![](../../../.gitbook/assets/unknown.png)<br>
 
+ART ![🤝](https://abs-0.twimg.com/emoji/v2/svg/1f91d.svg) AI - CREATORS' JOURNEY (PART 1)
+
 CREATORS GUILD : [https://www.youtube.com/watch?v=qz2ltEO7N7o](https://www.youtube.com/watch?v=qz2ltEO7N7o)
 
-
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/guilds_v9.jpg" alt=""><figcaption><p>Oct. 2, 2024: WHY WEB3 ART?</p></figcaption></figure>
 
