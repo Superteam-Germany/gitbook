@@ -9,6 +9,12 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/creators guild _ neutral_jpg.jpg" alt=""><figcaption><p>Spaces live on x/Twitter.</p></figcaption></figure>
 
+```
+// 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dHmk7ZRZv2KHiGj9&amp;list=PLeszzWXLYEN0YerAHhn7JAUXzPXIE6BIl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+```
+
 ## CREATORS GUILD GUESTS have included:
 
 Stefan Große Halbuer - Artist, Author & Innovator @grossehalbuer&#x20;
@@ -31,13 +37,15 @@ Web3 Multitalent Travi,&#x20;
 
 Creative-Founder Meylen & Host Paul of SuperteamDE
 
-Artists & Co-Curators of @SOL\_Animate Animation Festival Trev & Steve, Digital Artist
 
-Innovator Gert-Jan @GertJanAkerboom,&#x20;
 
-Comic Creator & Storyteller Roach @RoachWrites\_
+CREATORS GUILD v23: CREATE & RELEASE&#x20;
 
-CREATORS GUILD v23: create & release
+feat. Artists & Co-Curators of @SOL\_Animate Animation Festival Trev & Steve, Digital Artist
+
+Innovator Gert-Jan @GertJanAkerboom, Comic Creator & Storyteller Roach @RoachWrites\_
+
+{% embed url="https://x.com/SuperteamDE/status/1973780104418644093?s=20" %}
 
 [https://x.com/i/broadcasts/1mrxmBLWVVNKy](https://x.com/i/broadcasts/1mrxmBLWVVNKy)<br>
 
