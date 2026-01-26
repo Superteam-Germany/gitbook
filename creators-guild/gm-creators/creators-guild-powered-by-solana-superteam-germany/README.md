@@ -10,7 +10,8 @@ description: >-
 <figure><img src="../../../.gitbook/assets/creators guild _ neutral_jpg.jpg" alt=""><figcaption><p>Spaces live on x/Twitter.</p></figcaption></figure>
 
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dHmk7ZRZv2KHiGj9&amp;list=PLeszzWXLYEN0YerAHhn7JAUXzPXIE6BIl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtube.com/playlist?list=PLeszzWXLYEN0YerAHhn7JAUXzPXIE6BIl&si=EulY3YL648lB1EOV
+
 
 ```
 
