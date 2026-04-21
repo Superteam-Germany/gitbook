@@ -18,7 +18,7 @@ This page is intentionally link-first, because hackathon dates, tracks, and judg
 
 ## Current Cycle
 
-As of April 12, 2026, Colosseum’s public hackathon page shows the live cycle as `Frontier`.
+As of April 21, 2026, Colosseum’s public hackathon page shows the live cycle as `Frontier`.
 
 The Superteam Germany Build Station page currently lists:
 
@@ -32,8 +32,6 @@ The Superteam Germany Build Station page currently lists:
 - [Superteam Germany Hackathon Guide](https://superteamdao.notion.site/colosseum-hackathon-2025)
 - [Book 1:1 Mentoring](https://superteamdao.notion.site/colosseum-hackathon-2025#1e8794d3ba3380a7bfe1d2428dd4db04)
 - [Luma Calendar](https://lu.ma/user/superteamde)
-
-Note: the Superteam Germany Notion guide still uses a `colosseum-hackathon-2025` URL slug, but it is the live guide currently linked from the Build Station page.
 
 ## How To Use This Page
 

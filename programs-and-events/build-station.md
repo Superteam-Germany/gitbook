@@ -4,9 +4,11 @@ description: Build Station is Superteam Germany’s hands-on support layer for b
 
 # 🛠️ Build Station
 
-Build Station is Superteam Germany’s builder base during hackathon season.
+<figure><img src="../.gitbook/assets/build-station.png" alt="Builders at Superteam Germany Build Station"><figcaption></figcaption></figure>
 
-It is designed for teams and solo builders who want real momentum, not just a registration link. The format combines IRL coworking with mentorship, DevRel support, workshops, accountability, and pitch preparation.
+Build Station is Superteam Germany’s builder base for Colosseum Frontier, the biggest crypto hackathon.
+
+It is designed for teams and solo builders who want real momentum, not just a registration link. The format combines IRL coworking with mentorship, DevRel support, workshops, accountability, and pitch preparation around the Colosseum cycle.
 
 For the current cycle shown on the Superteam Germany website:
 
@@ -24,7 +26,7 @@ For the current cycle shown on the Superteam Germany website:
 
 ## Best For
 
-- teams building for Colosseum or other Solana hackathons
+- teams building for Colosseum Frontier
 - solo builders who want structure and community
 - early founders validating an idea while shipping
 - people who learn faster in a shared environment
@@ -37,8 +39,6 @@ For the current cycle shown on the Superteam Germany website:
 - [Superteam Germany Hackathon Guide](https://superteamdao.notion.site/colosseum-hackathon-2025)
 - [Book 1:1 Mentoring](https://superteamdao.notion.site/colosseum-hackathon-2025#1e8794d3ba3380a7bfe1d2428dd4db04)
 - [Build Station Website Page](https://de.superteam.fun/buildstation)
-
-Note: the Superteam Germany Notion guide still uses a `colosseum-hackathon-2025` URL slug, but it is the live guide linked from the current Build Station page.
 
 {% embed url="https://lu.ma/buildstation" %}
 

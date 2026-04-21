@@ -31,6 +31,4 @@ Use this section if you are:
 - [Superteam Germany Hackathon Guide](https://superteamdao.notion.site/colosseum-hackathon-2025)
 - [Book 1:1 Mentoring](https://superteamdao.notion.site/colosseum-hackathon-2025#1e8794d3ba3380a7bfe1d2428dd4db04)
 
-Note: Colosseum’s current hackathon is Frontier in 2026, while the Superteam Germany Notion guide still uses a 2025 URL slug.
-
 The best way to use this section is together with [Build on Solana](../build-on-solana/README.md).

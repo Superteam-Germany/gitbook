@@ -11,7 +11,7 @@
 
 * [Programs & Events](programs-and-events/README.md)
 * [Build Station](programs-and-events/build-station.md)
-* [Summits](programs-and-events/summits.md)
+* [Summit](programs-and-events/summit.md)
 * [Dev Guild](programs-and-events/dev-guild.md)
 * [Creator Guild](programs-and-events/creator-guild.md)
 

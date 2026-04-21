@@ -4,6 +4,8 @@ description: Community, programs, builder resources, and hackathon support for S
 
 # 👋 Start Here
 
+<figure><img src=".gitbook/assets/colosseum-germany-image.png" alt="Superteam Germany supporting builders during Colosseum season"><figcaption></figcaption></figure>
+
 Superteam Germany is the local home for builders, developers, and ambitious operators who want to learn, ship, and grow on Solana.
 
 These docs are designed to help you:
@@ -25,7 +27,7 @@ These docs are designed to help you:
 ## Where To Go Next
 
 - [About Superteam Germany](about/README.md) for the big picture and community links
-- [Programs & Events](programs-and-events/README.md) for Build Station, Summits, Dev Guild, and Creator Guild
+- [Programs & Events](programs-and-events/README.md) for Build Station, Summit, Dev Guild, Creator Guild, and recurring community events
 - [Build on Solana](build-on-solana/README.md) for learning paths, starter kits, tooling, and security
 - [Hackathon Hub](hackathon-hub/README.md) for Frontier 2026, team formation, submission prep, and curated builder resources
 - [Archive](archive/README.md) for legacy guild pages, old sessions, and previous hackathon material

@@ -8,6 +8,8 @@ Creator Guild is the creative side of Superteam Germany.
 
 It is for artists, writers, media operators, and creative technologists exploring how Solana changes distribution, monetization, audience ownership, and collaboration.
 
+The format runs live on YouTube and X, bringing creators and ecosystem teams together around Solana-native storytelling, creative tooling, and culture.
+
 ## What You Can Expect
 
 - creator-focused discussions and sessions
@@ -25,6 +27,7 @@ It is for artists, writers, media operators, and creative technologists explorin
 ## Where To Follow
 
 - [Event Calendar on Luma](https://lu.ma/user/superteamde)
+- [YouTube](https://www.youtube.com/@SuperteamDE)
 - [Superteam Germany on X](https://x.com/SuperteamDE)
 - [Website](https://de.superteam.fun/)
 

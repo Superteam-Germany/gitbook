@@ -23,14 +23,6 @@ The easiest way to get value from Superteam Germany is to show up consistently.
 - [Discord](https://discord.gg/CVwJhHgFfF)
 - [YouTube](https://www.youtube.com/@SuperteamDE)
 
-## Best Ways To Participate
-
-- Attend local events, workshops, and founder meetups
-- Join Build Station during hackathon season
-- Follow the Dev Guild if you are building
-- Follow the Creator Guild if you work in media, art, or creative tooling
-- Use the [Hackathon Hub](../hackathon-hub/README.md) when you are actively preparing a submission
-
 ## If You Want To Build
 
 Start here:
