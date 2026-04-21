@@ -4,7 +4,7 @@ description: Build Station is Superteam Germany’s hands-on support layer for b
 
 # 🛠️ Build Station
 
-<figure><img src="../.gitbook/assets/build-station.png" alt="Builders at Superteam Germany Build Station"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/build-station.png" alt="Builders at Superteam Germany Build Station" width="520"><figcaption></figcaption></figure>
 
 Build Station is Superteam Germany’s builder base for Colosseum Frontier, the biggest crypto hackathon.
 
